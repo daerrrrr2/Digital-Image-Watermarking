@@ -1,3 +1,6 @@
+%новый коментарий для программы добавления вотермарки на изображения
+
+
 %% This function applies attacks on images
 %  Input: image, attack type, attack parameters (different for each attack)
 function [watermarked_image] = Attacks(watermarked_image,attack,param)
